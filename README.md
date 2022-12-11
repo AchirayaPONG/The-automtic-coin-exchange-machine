@@ -19,3 +19,5 @@ bills.txt file is the information of bills that can be used in the machine.
 coins.txt is the information of coins that can be used in the machine.
 machine.json is the stock of coins that the method ‘load_coin’ will add the coins into this file.
 README is explaining the project.
+
+GitHub link: https://github.com/AchirayaPONG/The-automtic-coin-exchange-machine
